@@ -1,9 +1,0 @@
-#include<iostream>
-using namespace std;
-int main(){
-	int a[5]={0};//Only Zero Applicable Not Another NO. .
-	for(int i=0;i<5;i++){
-		cout<<a[i]<<" ";
-	}
-	return 0;
-}
